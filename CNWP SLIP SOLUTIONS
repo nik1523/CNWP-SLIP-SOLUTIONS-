@@ -1,0 +1,807 @@
+CNWP SLIP SOLUTIONS SLIP 1
+1.)
+
+<form><center> Enter the name:
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type=text name="NAME"> </input>
+
+<hr><br>
+
+Enter the password:
+
+<input type=password name="PASS" </input>
+
+<hr> <br>
+
+<h3> Which of the following operating system have you used ?? </h3><br>
+
+<input type=checkbox name="linux">LINUX</input><br>
+
+<input type=checkbox name="Apple">APPEL</input><br>
+
+<input type=checkbox name="windows">WINDOWS</input><br>
+
+<hr>
+
+<h3> which operating system do you like the best ? </h3> <br>
+
+<input type=radio name="linux">LINUX</input><br>
+
+<input type=radio name="Apple">APPLE</input><br>
+
+<input type=radio name="windows">WINDOWS</input><br>
+
+<hr>
+
+<h3> do you completed the form </h3> <br>
+
+<input type=submit value="SUBMIT" > </input> <br>
+
+</center></form>
+
+2.)
+
+<html>
+
+<head> <title> CAR COMPANY </title> <head>
+
+<body>
+
+<center>
+
+<h1> ALL CARS COMPANY NAMES </h1>
+
+<h2>
+
+<ol type="1">
+
+<li> <a href="tata.html">TATA</a></li>
+
+<li> <a href="suzuki.html">SUZUKI</a></li>
+
+<li> <a href="kia.html">KIA</a></li>
+
+</ol>
+
+</h2>
+
+</center></body></html>
+ 
+
+SLIP 2
+
+1.)
+
+<html>
+
+<head>
+
+<style> body{
+background-color:black;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<ol>
+
+<li> <font color="red">Red</font> </li>
+
+<li> <font color="orange">orange</font> </li>
+
+<li> <font color="yellow">yellow</font> </li>
+
+<li> <font color="green">Green</font> </li>
+
+<li> <font color="blue">blue</font> </li>
+
+<li> <font color="indigo">Indigo</font> </li>
+
+<li> <font color="violet">Violet</font> </li>
+
+</ol>
+
+</body>
+
+</html>
+
+2.)
+
+<html>
+
+<frameset rows="20%,60%,20%">
+
+<frame src="frame1.html">
+
+<frameset cols="30%,70%">
+
+<frame src="frame2.html">
+
+<frame src="frame3.html">
+
+</frameset>
+
+<frame src="frame4.html">
+
+</frameset>
+
+</html>
+ 
+
+1.)
+<html><head>
+<title> Q1 </title>
+</head>
+<body>
+<b>15</b>X<sup>4</sup>+<b>9</b>X<sup>3</sup>+<b>4</b>X<sup>2</sup>+<b>2</b>X+<b>4</b>=0
+</body></html> 2.)
+<html>
+<frameset rows="33%,33%,33%">
+<frame src="frame1.html">
+<frameset cols="50%,50%">
+<frame src="frame2.html">
+<frame src="frame3.html">
+</frameset>
+<frameset cols="33%,33%,33%">
+<frame src="frame4.html">
+<frame src="frame5.html">
+<frame src="frame6.html">
+</frameset>
+<freamset></html>
+
+2.B)
+<html><head>
+</head>
+<body>
+<h1> <font color="red"> S.Y.B.C.A. (Science) </font></h1>
+<h2> <font color="blue"> S.Y.B.C.A. (Science)</font> </h2>
+<h3> <font color="green"> S.Y.B.C.A. (Science)</font> </h3>
+<h4> <font color="yellow"> S.Y.B.C.A. (Science) </font> </h4>
+<h5> <font color="pink"> S.Y.B.C.A. (Science)</font> </h5>
+<h6> <font color="red"> S.Y.B.C.A. (Science)</font> </h6>
+</body></html>
+ 
+
+1.)
+
+<html><head> <title> MY CITY </title> </head>
+
+<body><center>
+
+<h1> <font color="blue">NASHIK</font></h1>
+
+</center>
+
+<h2> Landmarks</h2><br>
+
+<h3> <font color="red"> 1.Shri kalaram Temple</font> </h3>
+
+<h3> <font color="blue"> 2.Ramkund</font> </h3>
+
+<h3> <font color="yellow"> 3.Ved mandir</font> </h3>
+
+<h3> <font color="pink">4.Sula</font> </h3>
+
+<blink>
+
+<h3> <font color="green">5.K.T.H.M College Nashik </font> </h3>
+
+</blink>
+
+<marquee>
+
+<h2> Your choice</h2>
+
+</marquee></body></html>
+2.)
+
+<form><center>
+
+<h1> Feedback Form </h1> student Name:&nbsp;&nbsp;
+<input type=text value="name" ></input><br> student email:&nbsp;&nbsp;
+<input type=email value="email"></input><br> How do you know this institued&nbsp;&nbsp;
+<select size=3>
+
+<option>Friends</option>
+
+<option>Internet</option>
+
+<option>News peper</option>
+
+</select><br>
+
+How do you rate the faculty:&nbsp;&nbsp;
+
+<input type=radio value="1">Poor</input>
+
+<input type=radio value="2">Good</input>
+
+<input type=radio value="3">Very Good</input>
+
+<input type=radio value="4">Excellent</input><br>
+
+Suggestions for the betterment of faculty and Institued<br>
+
+<textarea></textarea><br>
+
+<input type=submit value="send"></input>
+
+<input type=reset value="clear"> </input>
+
+</center></form>
+ 
+SLIP 5
+
+1.)
+<html>
+<head><title> Q1.html </title> </head>
+<body>
+<b>This is Bold Text</b><br>
+<i>This is italic Text</i><br>
+<u>This is underline</u><br>
+</body>
+</html>
+
+2.)
+<form>
+<center>
+Enter your name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type=text /><br><br>
+Enter your password&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type=password /><br><br>
+which of the following operating system have you used ?<br>
+<input type=checkbox checked >LINUX</input>
+<input type=checkbox checked>Windows XP</input>
+<input type=checkbox >Machintosh 8.0</input><br><br> which operating system do you like the best?<br>
+<input type=radio >LINUX</input>
+<input type=radio checked >Windows XP</input>
+<input type=radio >Machintosh 8.0</input><br><br>
+You have completed the form&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type=submit value=Submit />
+</center>
+</form>
+ 
+ 
+SLIP 6
+1.)
+
+<html>
+
+<head>
+
+<style> body{
+background-color:green;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<center>
+
+<h1> <font color="red"/> My Assingnmet</h1>
+
+</center>
+
+<hr>
+
+<b> <font color="red" /> Name:Vinay Sunil Gaykhe </b><br>
+
+<i> <font color="red" />Address:AT.POST sukhena rode,Chandori.</i><br>
+
+<i> <font color="red" />Year:SY</i><br>
+
+</body>
+
+</html>
+
+2.)
+
+<form><center>
+
+Enter your name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type=text /><br><br>
+
+Enter your password&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type=password /><br><br>
+
+which of the following operating system have you used ?<br>
+
+<input type=checkbox checked >LINUX</input>
+
+<input type=checkbox checked>Windows XP</input>
+
+<input type=checkbox >Machintosh 8.0</input><br><br> which operating system do you like the best?<br>
+<input type=radio >LINUX</input>
+
+<input type=radio checked >Windows XP</input>
+
+<input type=radio >Machintosh 8.0</input><br><br>
+
+You have completed the form&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type=submit value=Submit />
+
+</center></form>
+ 
+ 
+SLIP 7
+
+1.)
+<html><head> <style>
+.first{
+color:red;
+border-color:black;
+
+}
+</style></head>
+<p class="first">This is the first Text </p>
+<p class="second">This is box 1</p>
+<p class="thired">This is box 2</p>
+<p class="fourth">This is the last text</p>
+</html>
+
+2.)
+<html>
+<head> </head>
+<body>
+<center> <h3> To illustrate link tags </h3> </center>
+<p>Text as a link/hyperlink to another page: <a href="demo.html"> Click here!!! </a> </p>
+<hr>
+<p> Image as a link/hypelink: <img src="nexon.jpg" width="50"> </p>
+<hr>
+<p> <a href="demo2.html"> See also chapter 8(link whithin a page)</a> </p>
+<h1> Chapter 1 </h1> <br>
+<p> This chapter explains pointers</p><br>
+<h1> Chapter 2 </h1> <br>
+<p> This chapter explains variables</p><br>
+<h1> Chapter 3 </h1> <br>
+<p> This chapter explains operatior</p><br>
+<h1> Chapter 4 </h1> <br>
+<p> This chapter explains structure</p><br>
+</body></html>
+ 
+ 
+SLIP 8
+
+1.)
+2.)
+<html>
+<head> </head>
+<body>
+<center> <h3> To illustrate link tags </h3> </center>
+<p>Text as a link/hyperlink to another page: <a href="demo.html"> Click here!!! </a> </p>
+<hr>
+<p> Image as a link/hypelink: <img src="nexon.jpg" width="50"> </p>
+<hr>
+<p> <a href="demo2.html"> See also chapter 8(link whithin a page)</a> </p>
+<h1> Chapter 1 </h1> <br>
+<p> This chapter explains pointers</p><br>
+<h1> Chapter 2 </h1> <br>
+<p> This chapter explains variables</p><br>
+<h1> Chapter 3 </h1> <br>
+<p> This chapter explains operatior</p><br>
+<h1> Chapter 4 </h1> <br>
+<p> This chapter explains structure</p><br>
+</body>
+</html>
+ 
+
+1.)
+
+<html>
+
+<head> <title>SYBCA Subject</title> </head>
+
+<body>
+
+<center><h1>SYBCA(Science) Subject</h1></center><br>
+
+<ol type="I">
+
+<li>Data structures
+
+<ul type="circle">
+
+<li>Algorithms and analysis of alogrithms</li>
+
+<li>Static and dynamic data structure</li>
+
+</ul>
+
+</li>
+
+<li> Database Management Systems II
+
+<ul type="disc">
+
+<li>Advanced SQL features and procedural SQL </li>
+
+<li>Concurrency control and creash recovery </li>
+
+</ul>
+
+</li>
+
+<li>Computer Networks
+
+<ul type="square">
+
+<li> Protocals at various layers in the protocolstacks</li>
+
+<li> Techniques for framming,error,control,flow control,and routing </li>
+
+</ul>
+
+</li>
+
+</ol>
+
+</body></html> 2.)
+<html>
+
+<head><title> Dussehra </title> </head>
+
+<body><center>
+
+<h1>Information About Dusserahra</h1>
+
+</center>
+
+<h3> Infromartion Why is celebrated ??<a href="frame1.html"> Click hear</a></h3>
+
+<h3> When it is celebrated ?? <a href="frame2.html">Click hear</a></h3>
+
+<h3> What you do on this Day ?? <a href="frame3.html">Click herar</a></h3>
+
+</body></html>
+ 
+
+1.)
+
+<html>
+
+<head> <title>My COLLEGE</title>
+
+</head>
+
+<body background="logo.jpg">
+
+<center>
+
+<h1>K.T.H.M College, Nashik</h1>
+
+<p>Gangapur rode,nashik Pin code:422201</p>
+
+</center>
+
+<marquee>Your choice</marquee>
+
+</body></html>
+ 
+
+1.)
+2.)
+<html>
+<body>
+<center>
+<h1> HTML Colors</h1>
+<table border=1 cellpadding=3 cellspacing=1>
+<tr>
+<th>color</th>
+<th>Name</th>
+<th>Hexadecimal</th>
+<th>RGB value</th>
+</tr>
+<tr>
+<td bgcolor="salmon"></td>
+<td align=center>Salmon</td>
+<td align=right>FA8072</td>
+<td align=center>250-128-114</td>
+</tr>
+<tr>
+<td bgcolor="gold"></td>
+<td align=center>Gold</td>
+<td align=right>FFD700</td>
+<td align=center>250-215-0</td>
+</tr>
+</table>
+</center>
+</body>
+</html>
+ 
+
+1.)
+
+2.)
+<html><body><center>
+
+<h1>Company wise profit</h1>
+
+<table border=1 cellpadding=0.5 cellspacing=0.5>
+
+<tr>
+<th align=center>Company Name </th>
+<th>Year </th>
+<th>Profit(In Crore) </th>
+
+</tr>
+
+<tr>
+
+<td rowspan="3" align=center>Infosys</td>
+<td align=center>2018</td>
+<td align=right>6520</td>
+
+</tr>
+<tr>
+
+<td align=center>2019</td>
+<td align=right>7250</td>
+
+</tr>
+
+<tr>
+
+<td align=center>2020</td>
+
+<td align=right>7962</td>
+</tr>
+ 
+
+1.)
+<html><body>
+<table border=1 cellpadding=0 cellspacing=0>
+<tr>
+<th align=center>Tag name </th>
+<th align=center> Output </th>
+</tr>
+<tr>
+<td align=center> b</td>
+<td align=center><b>Bold</b></td>
+</tr>
+<tr>
+<td align=center>I</td>
+<td align=center><i>Italic<i></td>
+</tr>
+<tr>
+<td align=center>U</td>
+<td align=center><u>Underline<u></td>
+</tr></table></body></html> 2.)
+<html><head>
+<link rel="stylesheet" href="gemo.css"> ul{
+color:blue;
+font-family:arial; font-size:18pt;
+}
+
+ol{
+
+color:green; font-family:arial; font-size:18pt
+}
+ 
+
+1.)
+<html>
+<head><title> Q1.html </title> </head>
+<body>
+<b>This is Bold Text</b><br>
+<i>This is italic Text</i><br>
+<u>This is underline</u><br>
+</body>
+</html>
+
+2.)_
+<html>
+<head> </head>
+<body>
+<table border=2 cellpadding=0 cellspacing=0>
+<tr>
+<th>Sr.No</th>
+<th>Product Name</th>
+<th>Product subtypes</th>
+</tr>
+<tr>
+<td align=center>1</td>
+<td>Pulses</td>
+<td>
+<ul type=disc>
+<li> Toor Daal</li>
+<li> Moong Daal</li>
+<li> Udad Daal</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align=center>2</td>
+<td>Everest Masala</td>
+ 
+
+1.)
+<html>
+<head> <title> MY CITY </title> </head>
+<body>
+<center>
+<h1> <font color="blue">NASHIK</font></h1>
+</center>
+<h2> Landmarks</h2><br>
+<h3> <font color="red"> 1.Shri kalaram Temple</font> </h3>
+<h3> <font color="blue"> 2.Ramkund</font> </h3>
+<h3> <font color="yellow"> 3.Ved mandir</font> </h3>
+<h3> <font color="pink">4.Sula</font> </h3>
+<blink>
+<h3> <font color="green">5.K.T.H.M College Nashik </font> </h3>
+</blink>
+<marquee>
+<h2> Your choice</h2>
+</marquee>
+</body>
+</html>
+
+2.)
+<html>
+<frameset rows="20%,60%,20%">
+<frame src="frame1.html">
+<frameset cols="30%,70%">
+<frame src="frame2.html">
+<frame src="frame3.html">
+</frameset>
+<frame src="frame4.html">
+</frameset>
+</html>
+ 
+
+1.)
+<html>
+<head>
+<style> body{
+background-color:black;
+}
+</style>
+</head>
+<body>
+<ol>
+<li> <font color="red">Red</font> </li>
+<li> <font color="orange">orange</font> </li>
+<li> <font color="yellow">yellow</font> </li>
+<li> <font color="green">Green</font> </li>
+<li> <font color="blue">blue</font> </li>
+<li> <font color="indigo">Indigo</font> </li>
+<li> <font color="violet">Violet</font> </li>
+</ol>
+</body>
+</html>
+
+2.)
+<html><head> </head><body><center> This is <i>italized</i><br><br>
+This is <u>underline</u><br><br> This is <b>bold</b><br><br>
+This is <em>emphasized</em><br><br>
+This is <strong>Strong Text</strong><br><br> This is <s>striked text</s><br><br>
+This is <small>computer code</small><br><br> This is <sup>superscript</sup> Code<br><br> This is <sub>subscript</sub> Code<br><br>
+</center></body></html>
+ 
+
+1.)
+2.)
+<html>
+<frameset rows="33%,33%,33%">
+<frame src="frame1.html">
+<frameset cols="50%,50%">
+<frame src="frame2.html">
+<frame src="frame3.html">
+</frameset>
+<frameset cols="33%,33%,33%">
+<frame src="frame4.html">
+<frame src="frame5.html">
+<frame src="frame6.html">
+</frameset> </html>
+ 
+
+1.)
+<html><head> <title>SYBCA Subject</title> </head><body>
+<center><h1>SYBCA(Science) Subject</h1></center><br>
+<ol type="I">
+<li>Data structures
+<ul type="circle">
+<li>Algorithms and analysis of alogrithms</li>
+<li>Static and dynamic data structure</li>
+</ul></li>
+<li> Database Management Systems II
+<ul type="disc">
+<li>Advanced SQL features and procedural SQL </li>
+<li>Concurrency control and creash recovery </li>
+</ul> </li>
+<li>Computer Networks
+<ul type="square">
+<li> Protocals at various layers in the protocolstacks</li>
+<li> Techniques for framming,error,control,flow control,and routing </li>
+</ul> </li></ol></body></html>
+2.)
+<html>
+<head><title> Dussehra </title> </head>
+<body>
+<center>
+<h1>Information About Dusserahra</h1>
+</center>
+<h3> Infromartion Why is celebrated ??<a href="frame1.html"> Click hear</a></h3>
+<h3> When it is celebrated ?? <a href="frame2.html">Click hear</a></h3>
+<h3> What you do on this Day ?? <a href="frame3.html">Click herar</a></h3>
+</body>
+</html>
+ 
+
+1A.)
+<html>
+<head>
+<title> Q1 </title>
+</head>
+<body>
+<b>15</b>X<sup>4</sup>+<b>9</b>X<sup>3</sup>+<b>4</b>X<sup>2</sup>+<b>2</b>X+<b>4</b>=0
+</body>
+</html>
+
+2.)
+<form>
+<center>
+<h1> Feedback Form </h1> student Name:&nbsp;&nbsp;
+<input type=text value="name" ></input><br> student email:&nbsp;&nbsp;
+<input type=email value="email"></input><br> How do you know this institued&nbsp;&nbsp;
+<select size=3>
+<option>Friends</option>
+<option>Internet</option>
+<option>News peper</option>
+</select><br>
+How do you rate the faculty:&nbsp;&nbsp;
+<input type=radio value="1">Poor</input>
+<input type=radio value="2">Good</input>
+<input type=radio value="3">Very Good</input>
+<input type=radio value="4">Excellent</input><br> Suggestions for the betterment of faculty and Institued<br>
+<textarea></textarea><br>
+<input type=submit value="send"></input>
+<input type=reset value="clear"> </input>
+</center></form>
+ 
+
+1.)
+<html>
+<head> <title>My COLLEGE</title>
+</head>
+<body background="logo.jpg">
+<center>
+<h1>K.T.H.M College, Nashik</h1>
+<p>Gangapur rode,nashik Pin code:422201</p>
+</center>
+<marquee>Your choice</marquee>
+</body>
+</html>
+
+2.)
+<html><body><center>
+<h1>Company wise profit</h1>
+<table border=1 cellpadding=0.5 cellspacing=0.5>
+<tr>
+<th align=center>Company Name </th>
+<th>Year </th>
+<th>Profit(In Crore) </th>
+</tr>
+<tr>
+<td rowspan="3" align=center>Infosys</td>
+<td align=center>2018</td>
+<td align=right>6520</td>
+</tr>
+<tr>
+<td align=center>2019</td>
+<td align=right>7250</td>
+</tr>
+<tr>
+<td align=center>2020</td>
+<td align=right>7962</td>
